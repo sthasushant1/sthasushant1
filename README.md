@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm from Nepal<br><br>- 🔭 I’m working as Software Developer/Freelancer<br>- 📚 I'm currently learning Flutter and .NET<br>- ⚡ In my free time I prefer to explore new technologies, work on personal projects, or engage in hobbies that inspire creativity.</p>
+<p align="left">I'm from Nepal<br><br>- 🔭 I’m working as Software Developer<br>- ⚡ In my free time I prefer to explore new technologies, work on personal projects, or engage in hobbies that inspire creativity.</p>
 
 ###
 
